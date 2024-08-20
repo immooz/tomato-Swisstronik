@@ -1,8 +1,6 @@
 node_modules
 .env
-simple.sh
-erc20.sh
-erc721.sh
+
 
 # Hardhat files
 /cache
@@ -18,3 +16,7 @@ erc721.sh
 
 # Hardhat Ignition default folder for deployments against a local node
 ignition/deployments/chain-31337
+
+simple.sh
+erc20.sh
+erc721.sh
