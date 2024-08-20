@@ -18,5 +18,3 @@ node_modules
 ignition/deployments/chain-31337
 
 simple.sh
-erc20.sh
-erc721.sh
